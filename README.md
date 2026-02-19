@@ -1,3 +1,10 @@
+
+## REPO ARCHIVED 
+
+The broad team merged our suggestions into the upstream repo. Hence, I'll archive this fork. 
+
+
+
 [![codecov](https://codecov.io/gh/broadinstitute/cromwell/branch/develop/graph/badge.svg)](https://codecov.io/gh/broadinstitute/cromwell)
 
 ## Welcome to the "AWS-friendly" Cromwell
